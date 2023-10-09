@@ -7,6 +7,10 @@ from the Brazilian Institute for the Environment and Renewable Natural Resources
 
 [![ibm_logo](http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Logo_IBAMA.svg/150px-Logo_IBAMA.svg.png)](https://www.ibama.gov.br)
 
+# Data Sample
+
+### **Check the final data by clicking [here](https://docs.google.com/spreadsheets/d/1sL8idZR0e20nhzjV9ne_s_t7f4wJpKM4LGkJtWZPXWs/edit?usp=sharing).**
+
 # Installation and Usage
 
 Clone this repo:
